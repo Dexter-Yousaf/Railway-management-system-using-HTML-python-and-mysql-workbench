@@ -1,0 +1,4 @@
+1. open the python file in VS code or any other code editor. 
+2. set up your database and put necessary tables. 
+3. now change the connection in the MAIN file and put your db details.
+now execute the python file. debug if any error( you can use chat GPT to debug as the code might be messed up)
